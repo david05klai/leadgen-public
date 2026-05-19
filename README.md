@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0f172a/38bdf8?text=LeadGen+Platform" alt="LeadGen Platform Header" />
+  <img src="image.png" alt="LeadGen Platform Header" style="max-width: 100%; border-radius: 10px;" />
 
   <h1>🚀 LeadGen Platform</h1>
   <p><strong>The Ultimate Free B2B Lead Generation Tool for Windows</strong></p>
