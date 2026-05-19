@@ -51,6 +51,17 @@ Unlike other platforms, **LeadGen runs on your own machine**. There are no month
 3. **Filter:** You can choose to only find businesses *without* a website.
 4. **Outreach:** Go to the Leads table, click on a lead, and click "Send WhatsApp" or "Send Email" to instantly contact them with your generated custom message.
 
+## 💖 Support the Project (Donations)
+
+If this software has helped you save time, automate your scraping, or boost your B2B sales pipeline, please consider supporting its continuous development! Any contribution is highly appreciated and helps keep the project active and regularly updated with new features.
+
+You can donate securely via **PayPal**:
+
+*   **PayPal Link:** [paypal.me/david05klai](https://paypal.me/david05klai)
+*   **PayPal Email:** `eliverekisde09@gmail.com`
+
+*Thank you so much for your support and for believing in this project!* 🚀
+
 ---
 
 <br>
@@ -79,3 +90,17 @@ Unlike other platforms, **LeadGen runs on your own machine**. There are no month
 
 ## 🐛 Soporte y Errores
 Si encuentras un error o tienes sugerencias, por favor abre un [Issue](https://github.com/david05klai/leadgen-public/issues) en este repositorio.
+
+---
+
+## 💖 Apoya el Proyecto (Donaciones)
+
+Si este software te ha sido de utilidad para ahorrar tiempo, automatizar tu prospección o impulsar tus ventas B2B, ¡considera apoyar su desarrollo continuo! Cualquier contribución es enormemente apreciada y ayuda a mantener el proyecto activo y al día con nuevas características.
+
+Puedes realizar tu donación de forma segura a través de **PayPal**:
+
+*   **Enlace de PayPal:** [paypal.me/david05klai](https://paypal.me/david05klai)
+*   **Correo de contacto/donación:** `eliverekisde09@gmail.com`
+
+*¡Muchísimas gracias por tu apoyo y por creer en este proyecto!* 🚀
+
