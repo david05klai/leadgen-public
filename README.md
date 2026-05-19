@@ -58,7 +58,6 @@ If this software has helped you save time, automate your scraping, or boost your
 You can donate securely via **PayPal**:
 
 *   **PayPal Link:** [paypal.me/david05klai](https://paypal.me/david05klai)
-*   **PayPal Email:** `eliverekisde09@gmail.com`
 
 *Thank you so much for your support and for believing in this project!* 🚀
 
@@ -100,7 +99,6 @@ Si este software te ha sido de utilidad para ahorrar tiempo, automatizar tu pros
 Puedes realizar tu donación de forma segura a través de **PayPal**:
 
 *   **Enlace de PayPal:** [paypal.me/david05klai](https://paypal.me/david05klai)
-*   **Correo de contacto/donación:** `eliverekisde09@gmail.com`
 
 *¡Muchísimas gracias por tu apoyo y por creer en este proyecto!* 🚀
 
