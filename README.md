@@ -57,7 +57,7 @@ If this software has helped you save time, automate your scraping, or boost your
 
 You can donate securely via **PayPal**:
 
-*   **PayPal Link:** [paypal.me/david05klai](https://paypal.me/david05klai)
+*   **PayPal Link:** [paypal.me/DKCode](https://www.paypal.me/DKCode)
 
 *Thank you so much for your support and for believing in this project!* 🚀
 
@@ -98,7 +98,7 @@ Si este software te ha sido de utilidad para ahorrar tiempo, automatizar tu pros
 
 Puedes realizar tu donación de forma segura a través de **PayPal**:
 
-*   **Enlace de PayPal:** [paypal.me/david05klai](https://paypal.me/david05klai)
+*   **Enlace de PayPal:** [paypal.me/DKCode](https://www.paypal.me/DKCode)
 
 *¡Muchísimas gracias por tu apoyo y por creer en este proyecto!* 🚀
 
