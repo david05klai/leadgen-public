@@ -5,8 +5,8 @@
   <p><strong>The Ultimate Free B2B Lead Generation Tool for Windows</strong></p>
 
   <p>
-    <a href="https://github.com/david05klai/leadgen-public/releases/latest"><img src="https://img.shields.io/github/v/release/david05klai/leadgen-public?style=for-the-badge&color=38bdf8" alt="Latest Release" /></a>
-    <a href="https://github.com/david05klai/leadgen-public/releases/latest"><img src="https://img.shields.io/github/downloads/david05klai/leadgen-public/total?style=for-the-badge&color=22c55e" alt="Downloads" /></a>
+    <a href="https://github.com/david05klai/leadgen-public/releases/latest"><img src="https://img.shields.io/github/v/release/david05klai/leadgen-public?style=for-the-badge&color=38bdf8&v=1.2.16" alt="Latest Release" /></a>
+    <a href="https://github.com/david05klai/leadgen-public/releases/latest"><img src="https://img.shields.io/github/downloads/david05klai/leadgen-public/total?style=for-the-badge&color=22c55e&v=1.2.16" alt="Downloads" /></a>
     <img src="https://img.shields.io/badge/Platform-Windows-0f172a?style=for-the-badge&logo=windows" alt="Windows Support" />
   </p>
 
